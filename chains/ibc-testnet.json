@@ -16,7 +16,7 @@
             "coin_type": 118,
             "trusting_period": "336h",
             "gas_adjustment": 1.5,
-            "number_vals": 1,
+            "number_vals": 5,
             "number_node": 0,
             "debugging": true,
             "block_time": "1000ms",
